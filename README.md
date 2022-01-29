@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MY GitHub Stats](https://github-readme-stats.vercel.app/api?username=FR13ndSDP)]()
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=FR13ndSDP&show_icons=true&theme=radical)
 <!--
 **FR13ndSDP/FR13ndSDP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
