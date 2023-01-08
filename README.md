@@ -2,7 +2,7 @@
 
 
 ## 📈 GitHub Activity Graph:
-![Fr13ndSDP's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=FR13ndSDP&hide_border=true&theme=redical)
+[![David's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FR13ndSDP)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  . | .
 --- | --- 
