@@ -1,5 +1,8 @@
 [![typograssy](https://typograssy.deno.dev/api?text=FR13ndSDP)](https://github.com/kawarimidoll/typograssy)
 
+### Hi, I'm Depei Song👋
+I love coding in C++, Python and Fortran🧑‍💻. My insterests include computational Fluid dynamics🌊, parallel programming and adaptive algorithms.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FR13ndSDP/FR13ndSDP/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FR13ndSDP/FR13ndSDP/output/github-snake.svg">
