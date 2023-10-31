@@ -1,4 +1,4 @@
-[![typograssy](https://typograssy.deno.dev/api?text=FR13ndSDP)](https://github.com/kawarimidoll/typograssy)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Fr13ndSDP&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 ### Hi, I'm Depei Song👋
 I love coding in C++, Python and Fortran🧑‍💻. My insterests include computational Fluid dynamics🌊, parallel programming and adaptive algorithms.
@@ -14,3 +14,4 @@ I love coding in C++, Python and Fortran🧑‍💻. My insterests include compu
 </picture>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{FR13ndSDP}/count.svg" alt="FR13ndSDP :: Visitor's Count" /></p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
